@@ -122,6 +122,7 @@ body{
 
     .apresentacao{
         flex-direction: column-reverse;
+        pedding:5%
     }
     .apresentacao__conteudo{
         width: auto;
